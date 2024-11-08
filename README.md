@@ -1,0 +1,2 @@
+# EJSCodes
+Codes of ejs.
